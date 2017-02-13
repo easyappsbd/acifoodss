@@ -94,6 +94,6 @@
 		data-width="450"
 		data-show-faces="true">
 	</div>
-
+	<a href="privacy.php">Privacy Policy</a>
 </body>
 </html>
