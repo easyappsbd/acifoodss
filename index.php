@@ -87,5 +87,13 @@
 			<div class="Choice"><div class="Answer"><label><input type="radio" name="Answer[4]" value="0" checked>Fashion</label></div><div class="Answer"><label><input type="radio" name="Answer[4]" value="1">Technology</label></div><div class="Answer"><label><input type="radio" name="Answer[4]" value="2">Health & Lifestyle</label></div></div>
 		</div><button name="btnSubmit" value="1">Submit</button></button>
 	</form>
+
+	<div
+		class="fb-like"
+		data-share="true"
+		data-width="450"
+		data-show-faces="true">
+	</div>
+
 </body>
 </html>
